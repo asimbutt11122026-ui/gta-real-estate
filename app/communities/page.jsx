@@ -44,7 +44,7 @@ export default function CommunitiesPage() {
           </div>
         ) : (
           <div style={{ textAlign: "center", padding: "60px 20px", backgroundColor: "#f8f7f5", borderRadius: "8px" }}>
-            <p style={{ fontSize: "18px", color: "#666" }}>No communities found matching your search.</p>
+            <p style={{ fontSize: "18px", color: "#666" }}>No communities found.</p>
           </div>
         )}
       </section>
